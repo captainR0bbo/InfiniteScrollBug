@@ -1,0 +1,7 @@
+{
+  "name": "InfiniteScrollBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
